@@ -1,0 +1,4 @@
+TV LED,1290.99
+Video Game Chair,1050.0
+IphoneX,1800.0
+Samsung Galaxy 9,1700.0
